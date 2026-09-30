@@ -9,7 +9,7 @@
 * 💻 **Tech Stack:** Python, NumPy, Matplotlib, Git, Markdown.
 
 ---
-[![Profile Views](https://u8views.com/github/fracarli)](https://u8views.com/github/fracarli)
+[![fracarli's GitHub stats](https://github-readme-stats.vercel.app/api?username=fracarli&show_icons=true&theme=radical)](https://github.com/fracarli)
 ---
 
 ### 🎨 Beyond Code: Creative & 3D Design
