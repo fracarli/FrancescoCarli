@@ -10,6 +10,8 @@
 
 ---
 [![fracarli's GitHub stats](https://github-readme-stats.vercel.app/api?username=fracarli&show_icons=true&theme=radical)](https://github.com/fracarli)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fracarli&layout=compact&theme=radical)](https://github.com/fracarli)
 ---
 
 ### 🎨 Beyond Code: Creative & 3D Design
