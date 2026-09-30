@@ -9,7 +9,7 @@
 * 💻 **Tech Stack:** Python, NumPy, Matplotlib, Git, Markdown.
 
 ---
-![Visitor Count](https://komarev.com/ghpvc/?username=FrancescoCarli)
+![Visitor Count](https://komarev.com/ghpvc/?username=fracarli)
 ---
 
 ### 🎨 Beyond Code: Creative & 3D Design
