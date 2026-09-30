@@ -9,10 +9,6 @@
 * 💻 **Tech Stack:** Python, NumPy, Matplotlib, Git, Markdown.
 
 ---
-[![fracarli's GitHub stats](https://github-readme-stats.vercel.app/api?username=fracarli&show_icons=true&theme=radical)](https://github.com/fracarli)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fracarli&layout=compact&theme=radical)](https://github.com/fracarli)
----
 
 ### 🎨 Beyond Code: Creative & 3D Design
 Because I love designing and bringing ideas to life physically, you can also check out my creative 3D modeling work here:
@@ -22,3 +18,8 @@ Because I love designing and bringing ideas to life physically, you can also che
 
 ### 📬 Connect With Me
 * **LinkedIn:** [Francesco Carli](https://www.linkedin.com/in/francesco-carli-67b48941b)
+
+---
+[![fracarli's GitHub stats](https://github-readme-stats.vercel.app/api?username=fracarli&show_icons=true&theme=radical)](https://github.com/fracarli)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fracarli&layout=compact&theme=radical)](https://github.com/fracarli)
